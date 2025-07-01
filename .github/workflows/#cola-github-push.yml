@@ -1,4 +1,4 @@
-#cola-github-push.yml
+# cola-github-push.yml
 name: Docker
 
 # This workflow uses actions that are not certified by GitHub.
